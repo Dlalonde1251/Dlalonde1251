@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dlalonde1251
+- 👀 I’m interested in developing my first app
+- 🌱 I’m currently learning react native
+- 💞️ I’m looking to collaborate on apps that solve problems
+- 📫 How to reach me email!
